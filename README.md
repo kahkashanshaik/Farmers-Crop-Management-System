@@ -1,5 +1,7 @@
 # Farmers-Crop-Management-System
 # PHP Mini Project
+# If you like my work please give me github rating for this project
+# **Github** ---- **https://github.com/kahkashanshaik/**
 Hello Welcome to kahkashanshaik repository. Let me tell you some of the key points for this projects to execute
 
 **Prerequisite**:

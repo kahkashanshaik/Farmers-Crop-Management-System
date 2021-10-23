@@ -1,6 +1,6 @@
 # Farmers-Crop-Management-System
 # PHP Mini Project
-
+For more projects follow me on youtube - https://www.youtube.com/channel/UCWzGvbFwdmNl71OJjH_hniA/
 ================================================================================
 
 

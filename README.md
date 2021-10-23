@@ -9,7 +9,7 @@ Hello Welcome to kahkashanshaik repository. Let me tell you some of the key poin
      **Admin**:  
           username: admin
           password: admin@123
-     ** User**:
+     **User**:
           Need to Register themselves first after registration username and password would be
           username: adhar Number
           password: mobile no

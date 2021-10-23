@@ -1,11 +1,12 @@
 # Farmers-Crop-Management-System
 # PHP Mini Project
-For more projects follow me on youtube - https://www.youtube.com/channel/UCWzGvbFwdmNl71OJjH_hniA/
+
 ================================================================================
 
 
  **If you like my work please give me github rating for this project**
  **Github** ---- **https://github.com/kahkashanshaik/Farmers-Crop-Management-System**
+ For more projects follow me on youtube - **https://www.youtube.com/channel/UCWzGvbFwdmNl71OJjH_hniA/**
 
 ================================================================================
 Hello Welcome to kahkashanshaik repository. Let me tell you some of the key points for this projects to execute

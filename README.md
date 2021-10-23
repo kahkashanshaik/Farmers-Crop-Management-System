@@ -6,10 +6,10 @@
 
  **If you like my work please give me github rating for this project**
  **Github** ---- **https://github.com/kahkashanshaik/Farmers-Crop-Management-System**
+
+================================================================================
 Hello Welcome to kahkashanshaik repository. Let me tell you some of the key points for this projects to execute
  
-================================================================================
-
 **Prerequisite**:
     XAMPP Server latest
     PHP >= 7.0

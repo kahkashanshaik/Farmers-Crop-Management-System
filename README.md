@@ -14,14 +14,6 @@ Hello Welcome to kahkashanshaik repository. Let me tell you some of the key poin
     XAMPP Server latest
     PHP >= 7.0
 
-**Login Credentials** :
-     **Admin**:  
-          username: admin
-          password: admin@123
-     **User**:
-          Need to Register themselves first after registration username and password would be
-          username: adhar Number
-          password: mobile no
 =================================================================================
 
   **Project Screen Shots**
@@ -31,3 +23,13 @@ Hello Welcome to kahkashanshaik repository. Let me tell you some of the key poin
 ![4](https://user-images.githubusercontent.com/93042682/138560854-a558aa8c-4c8e-48ce-a49e-c88de237842f.png)
 ![5](https://user-images.githubusercontent.com/93042682/138560858-814096d5-f3e5-40c7-8e69-14bcda20da86.png)
 ![6](https://user-images.githubusercontent.com/93042682/138560861-c1e82d26-e422-4076-8848-073187e67cf0.png)
+
+
+Login Credentials:
+     Admin:  
+          username: admin
+          password: admin@123
+     User:
+          Need to Register themselves first after registration username and password would be
+          username: adhar Number
+          password: mobile no
